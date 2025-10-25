@@ -1,0 +1,11 @@
+{
+  "name": "docker-source-demo",
+  "version": "1.0.0",
+  "description": "Тестовый исходный образ Docker, собранный из GitHub-репозитория",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ATJakeDog",
+  "license": "MIT"
+}
